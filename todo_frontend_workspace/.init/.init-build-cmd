@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/taskmaster-70041-ccff6dfc/todo_frontend_workspace/todo_frontend"
+}
